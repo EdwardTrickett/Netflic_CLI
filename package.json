@@ -1,0 +1,20 @@
+{
+  "name": "netflixcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardTrickett/Netflic_CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardTrickett/Netflic_CLI/issues"
+  },
+  "homepage": "https://github.com/EdwardTrickett/Netflic_CLI#readme"
+}
